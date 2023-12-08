@@ -1,0 +1,15 @@
+{
+    "name": "oleg/hexlet-git2",
+    "description": "styding composer",
+    "autoload": {
+        "psr-4": {
+            "Oleg\\HexletGit2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "oleg ushkevich"
+        }
+    ],
+    "require": {}
+}
