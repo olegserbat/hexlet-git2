@@ -11,5 +11,7 @@
             "name": "oleg ushkevich"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^9.52"
+    }
 }
