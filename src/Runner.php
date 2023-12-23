@@ -1,5 +1,5 @@
 <?php
-namespace Hexlet\Php\Runner;
+namespace HexletGit\Runner;
 
 function run()
 {

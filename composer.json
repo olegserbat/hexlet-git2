@@ -2,8 +2,9 @@
     "name": "oleg/hexlet-git2",
     "description": "styding composer",
     "autoload": {
+        "files": ["src/Runner.php"],
         "psr-4": {
-            "Oleg\\HexletGit2\\": "src/"
+            "Oleg\\HexletGit\\": "src/"
         }
     },
     "authors": [
@@ -13,5 +14,8 @@
     ],
     "require": {
         "tightenco/collect": "^9.52"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.8"
     }
 }
