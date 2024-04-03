@@ -1,6 +1,9 @@
 {
     "name": "oleg/hexlet-git2",
     "description": "styding composer",
+    "bin": [
+        "bin/say"
+    ],
     "autoload": {
         "files": ["src/Runner.php"],
         "psr-4": {

@@ -1,3 +1,3 @@
 
 say-hello:
-	./src/Runner.php
+	./bin/say
